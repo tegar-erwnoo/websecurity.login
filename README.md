@@ -1,6 +1,6 @@
 |Nama|NIM|Kelas|Matkul|
 |----|---|-----|------|
-|Muhamad Tegar Hermawanto|312310404|TI.23.A4|Pemograman Web 2|
+|Muhamad Tegar Hermawanto|312310404|TI.23.A4|Pemrograman Web 2|
 
 6.1 Persiapan Awal
 Instalasi XAMPP → supaya punya server lokal (Apache + MySQL).
